@@ -1,0 +1,15 @@
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\bin\Debug\net6.0\Savinggrejs.exe
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\bin\Debug\net6.0\Savinggrejs.deps.json
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\bin\Debug\net6.0\Savinggrejs.runtimeconfig.json
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\bin\Debug\net6.0\Savinggrejs.dll
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\bin\Debug\net6.0\Savinggrejs.pdb
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\obj\Debug\net6.0\Savinggrejs.csproj.AssemblyReference.cache
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\obj\Debug\net6.0\Savinggrejs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\obj\Debug\net6.0\Savinggrejs.AssemblyInfoInputs.cache
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\obj\Debug\net6.0\Savinggrejs.AssemblyInfo.cs
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\obj\Debug\net6.0\Savinggrejs.csproj.CoreCompileInputs.cache
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\obj\Debug\net6.0\Savinggrejs.dll
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\obj\Debug\net6.0\refint\Savinggrejs.dll
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\obj\Debug\net6.0\Savinggrejs.pdb
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\obj\Debug\net6.0\Savinggrejs.genruntimeconfig.cache
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Savinggrejs\Savinggrejs\obj\Debug\net6.0\ref\Savinggrejs.dll
